@@ -58,9 +58,7 @@ The game is designed using C# programming language. The project involves creatin
 
 <h1>How To Run The Game</h1>
 
-
-
-
+LargeGameV2-->bin-->Debug-->netcoreapp3.1-->LargeGameV2.exe
 
 <hr>
 
