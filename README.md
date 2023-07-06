@@ -55,10 +55,5 @@ The game will be designed using C# programming language. The project will involv
 
 <hr>
 
-## Author
+<h3 align="left">Author</h3>
 **Mostafa Hassan**
-
-
-<hr>
-<h1 align="center">Languages and Tools that used in this project</h1>
-
