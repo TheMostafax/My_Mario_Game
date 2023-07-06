@@ -55,5 +55,5 @@ The game will be designed using C# programming language. The project will involv
 
 <hr>
 
-<h3 align="left">Author</h3>
-**Mostafa Hassan**
+<h1 align="left">Author</h1>
+<h3 align="left">Mostafa Hassan</h3>
