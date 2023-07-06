@@ -1,0 +1,32 @@
+C:\Users\Mostafa Hassan\source\repos\LargeGameV2\LargeGameV2\obj\Debug\netcoreapp3.1\LargeGameV2.csproj.AssemblyReference.cache
+C:\Users\Mostafa Hassan\source\repos\LargeGameV2\LargeGameV2\obj\Debug\netcoreapp3.1\LargeGameV2.csproj.GenerateResource.cache
+C:\Users\Mostafa Hassan\source\repos\LargeGameV2\LargeGameV2\obj\Debug\netcoreapp3.1\LargeGameV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa Hassan\source\repos\LargeGameV2\LargeGameV2\obj\Debug\netcoreapp3.1\LargeGameV2.AssemblyInfoInputs.cache
+C:\Users\Mostafa Hassan\source\repos\LargeGameV2\LargeGameV2\obj\Debug\netcoreapp3.1\LargeGameV2.AssemblyInfo.cs
+C:\Users\Mostafa Hassan\source\repos\LargeGameV2\LargeGameV2\obj\Debug\netcoreapp3.1\LargeGameV2.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa Hassan\source\repos\LargeGameV2\LargeGameV2\bin\Debug\netcoreapp3.1\LargeGameV2.exe
+C:\Users\Mostafa Hassan\source\repos\LargeGameV2\LargeGameV2\bin\Debug\netcoreapp3.1\LargeGameV2.deps.json
+C:\Users\Mostafa Hassan\source\repos\LargeGameV2\LargeGameV2\bin\Debug\netcoreapp3.1\LargeGameV2.runtimeconfig.json
+C:\Users\Mostafa Hassan\source\repos\LargeGameV2\LargeGameV2\bin\Debug\netcoreapp3.1\LargeGameV2.runtimeconfig.dev.json
+C:\Users\Mostafa Hassan\source\repos\LargeGameV2\LargeGameV2\bin\Debug\netcoreapp3.1\LargeGameV2.dll
+C:\Users\Mostafa Hassan\source\repos\LargeGameV2\LargeGameV2\bin\Debug\netcoreapp3.1\LargeGameV2.pdb
+C:\Users\Mostafa Hassan\source\repos\LargeGameV2\LargeGameV2\obj\Debug\netcoreapp3.1\LargeGameV2.Score.resources
+C:\Users\Mostafa Hassan\source\repos\LargeGameV2\LargeGameV2\obj\Debug\netcoreapp3.1\LargeGameV2.dll
+C:\Users\Mostafa Hassan\source\repos\LargeGameV2\LargeGameV2\obj\Debug\netcoreapp3.1\LargeGameV2.pdb
+C:\Users\Mostafa Hassan\source\repos\LargeGameV2\LargeGameV2\obj\Debug\netcoreapp3.1\LargeGameV2.genruntimeconfig.cache
+C:\Users\Mostafa Hassan\OneDrive\Documents\ME\Projects\Mario Game C#\LargeGameV2\bin\Debug\netcoreapp3.1\LargeGameV2.exe
+C:\Users\Mostafa Hassan\OneDrive\Documents\ME\Projects\Mario Game C#\LargeGameV2\bin\Debug\netcoreapp3.1\LargeGameV2.deps.json
+C:\Users\Mostafa Hassan\OneDrive\Documents\ME\Projects\Mario Game C#\LargeGameV2\bin\Debug\netcoreapp3.1\LargeGameV2.runtimeconfig.json
+C:\Users\Mostafa Hassan\OneDrive\Documents\ME\Projects\Mario Game C#\LargeGameV2\bin\Debug\netcoreapp3.1\LargeGameV2.runtimeconfig.dev.json
+C:\Users\Mostafa Hassan\OneDrive\Documents\ME\Projects\Mario Game C#\LargeGameV2\bin\Debug\netcoreapp3.1\LargeGameV2.dll
+C:\Users\Mostafa Hassan\OneDrive\Documents\ME\Projects\Mario Game C#\LargeGameV2\bin\Debug\netcoreapp3.1\LargeGameV2.pdb
+C:\Users\Mostafa Hassan\OneDrive\Documents\ME\Projects\Mario Game C#\LargeGameV2\obj\Debug\netcoreapp3.1\LargeGameV2.csproj.AssemblyReference.cache
+C:\Users\Mostafa Hassan\OneDrive\Documents\ME\Projects\Mario Game C#\LargeGameV2\obj\Debug\netcoreapp3.1\LargeGameV2.Score.resources
+C:\Users\Mostafa Hassan\OneDrive\Documents\ME\Projects\Mario Game C#\LargeGameV2\obj\Debug\netcoreapp3.1\LargeGameV2.csproj.GenerateResource.cache
+C:\Users\Mostafa Hassan\OneDrive\Documents\ME\Projects\Mario Game C#\LargeGameV2\obj\Debug\netcoreapp3.1\LargeGameV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa Hassan\OneDrive\Documents\ME\Projects\Mario Game C#\LargeGameV2\obj\Debug\netcoreapp3.1\LargeGameV2.AssemblyInfoInputs.cache
+C:\Users\Mostafa Hassan\OneDrive\Documents\ME\Projects\Mario Game C#\LargeGameV2\obj\Debug\netcoreapp3.1\LargeGameV2.AssemblyInfo.cs
+C:\Users\Mostafa Hassan\OneDrive\Documents\ME\Projects\Mario Game C#\LargeGameV2\obj\Debug\netcoreapp3.1\LargeGameV2.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa Hassan\OneDrive\Documents\ME\Projects\Mario Game C#\LargeGameV2\obj\Debug\netcoreapp3.1\LargeGameV2.dll
+C:\Users\Mostafa Hassan\OneDrive\Documents\ME\Projects\Mario Game C#\LargeGameV2\obj\Debug\netcoreapp3.1\LargeGameV2.pdb
+C:\Users\Mostafa Hassan\OneDrive\Documents\ME\Projects\Mario Game C#\LargeGameV2\obj\Debug\netcoreapp3.1\LargeGameV2.genruntimeconfig.cache
