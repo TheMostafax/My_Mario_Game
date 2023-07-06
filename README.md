@@ -10,7 +10,7 @@
 
 The classic Mario game project using C# is an exciting and fun project that aims to recreate the original Super Mario Bros game from the 1980s. The project allows players to relive the nostalgia of one of the most popular games of all time, with updated graphics.
 
-The game is designed using C# programming language. The project involves creating various game assets such as characters and backgrounds. ,the gameplay mechanics will involve running, jumping, and collecting coins while avoiding obstacles and enemies, and the game will feature classic power-ups.
+The game is designed using C# programming language. The project involves creating various game assets such as characters and backgrounds. , the gameplay mechanics will involve running, jumping, and collecting coins while avoiding obstacles and enemies, and the game will feature classic power-ups.
 
 
 <hr>
