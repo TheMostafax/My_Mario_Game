@@ -3,7 +3,6 @@
   
 ![game](https://github.com/TheMostafax/My_Mario_Game/assets/81190585/f55f6266-be9a-493e-9112-6d998765bd03)
 
-
 </p>
 
 <h1 align="center">Project Description </h1>
